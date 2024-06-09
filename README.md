@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently learning and working on project using Elixir and Phoenix LiveView
+- 📫 How to reach me: My email: Terry@TerryG.org
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like playing soccer
+
+[![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerryGarcia)](https://github.com/anuraghazra/github-readme-stats)
+
